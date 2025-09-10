@@ -26,9 +26,6 @@ Enables team members to share both HTML files and conversion results seamlessly.
     Flask (Python): Jinja2
 
     Next.js (JavaScript/React): JSX / React Components
-    
-## 📘 How to Use
-BCH+ features an intuitive GUI, making it easy to operate without technical setup. No personal data is collected—just register a nickname and email address to get started. If you're curious, feel free to give it a try: 👉 https://bchplus.com
 
 ## 💡 Technical Innovations
 - Original, lightweight DOM parsing algorithm
@@ -41,6 +38,9 @@ BCH+ features an intuitive GUI, making it easy to operate without technical setu
     By simply modifying the .env file, the system can instantly adapt to changes in the number of sharded databases.
 
 ※As of May 2024, Copilot was unable to perform conversion. On August 16, 2025, I asked again—and now it can parse the DOM and perform conversion. On September 4, 2025, I asked Gemini, and it can do it too. Apparently, this became possible thanks to a recent system update.
+    
+## 📘 How to Use
+BCH+ features an intuitive GUI, making it easy to operate without technical setup. No personal data is collected—just register a nickname and email address to get started. If you're curious, feel free to give it a try: 👉 https://bchplus.com
 
 ## 📌 Why I Created This
 
