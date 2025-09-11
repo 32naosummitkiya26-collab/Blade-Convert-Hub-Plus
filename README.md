@@ -45,17 +45,21 @@ BCH+ features an intuitive GUI, making it easy to operate without technical setu
 
 In September 2017, the Japanese takeaway restaurant that I ran with my wife went bankrupt. That's when I had the idea to improve the ordering system we were using and make it available for other people to use. In the process, the idea for Converter came about by chance.
 
-The system was developed in Laravel. After converting the .html files into Blade templates, I read Taylor Otwell’s documentation and felt a sense of discomfort. That discomfort, when I tried to put it into words, came from the fact that “alternative methods” were in the spotlight, while the approach proposed by the framework’s creator seemed to be left in the shadows.
+The system was being developed using Laravel. After changing the .html extension and creating a blade file, I read Taylor Otwell's documentation and felt something was off.
+The root cause of this feeling of discomfort was, in other words, that the "alternative methods" were in the spotlight, while the methods advocated by the framework developers were in the shadows.
+Also, doing the manual work was a pain, so I looked for an automation tool, but there weren't any. So I started making it myself.
 
 I also found the manual work tedious and looked for automation tools—but none existed. So I decided to build one myself.
 
-In November 2021, I successfully converted the first sample. In January 2022, I completed the second. After passing display tests in the runtime environment, I felt confident that this method would work.
+In November 2021, I successfully converted the first sample. In January 2022, I successfully converted the second.
+Since the display test in the runtime environment also passed, I was confident that this approach would work.
+Ultimately, I think the reason I've been able to continue developing BCH+ for eight years is to resolve this sense of discomfort.
+It was to resolve my own indigestion. Sometimes I wonder if I'm stupid for taking so long.
 
-Looking back, I think the reason I’ve been able to keep developing BCH+ for eight years is because I needed to resolve that discomfort. It was about digesting something that hadn’t sat right with me. Sometimes I wonder if I’m a fool for spending so much time on this—but here I am.
+If I had focused solely on the conversion, the AI ​​would have caught up with me and surpassed me in no time. Please laugh. :)
 
-When I focused solely on conversion, AI quickly caught up and overtook me. Go ahead and laugh. :)
-
-※Since October 2017, I’ve been working as a baker. Instead of sitting in front of a laptop for 8 hours a day, I spend 8 hours in front of an oven baking bread. I developed this in an environment where I could maybe code for 1–2 hours a day, if I was lucky.
+※I've been working as a baker since October 2017, and instead of sitting in front of my laptop for eight hours a day, I spend eight hours a day baking bread in front of the oven.
+I developed it in an environment where I could code for just one or two hours a day.
 
 ## 📅 Future Development Schedule
 If BCH+ proves useful to others, I’ll prioritize option 1. If it turns out to be unnecessary for the world, I’ll focus on option 2.
