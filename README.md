@@ -43,7 +43,7 @@ BCH+ features an intuitive GUI, making it easy to operate without technical setu
 
 ## 📌 Why I Created This
 
-In September 2017, the Japanese takeaway business I ran with my wife went bankrupt. That experience sparked the idea to improve the ordering system we had built and make it usable for others.
+In September 2017, the Japanese takeaway restaurant that I ran with my wife went bankrupt. That's when I had the idea to improve the ordering system we were using and make it available for other people to use. In the process, the idea for Converter came about by chance.
 
 The system was developed in Laravel. After converting the .html files into Blade templates, I read Taylor Otwell’s documentation and felt a sense of discomfort. That discomfort, when I tried to put it into words, came from the fact that “alternative methods” were in the spotlight, while the approach proposed by the framework’s creator seemed to be left in the shadows.
 
