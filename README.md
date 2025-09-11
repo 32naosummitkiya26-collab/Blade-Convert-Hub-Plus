@@ -53,10 +53,9 @@ The root cause of this feeling of discomfort was, in other words, that the "alte
 Also, doing the manual work was a pain, so I looked for an automation tool, but there weren't any. So I started making it myself.
 
 In November 2021, I successfully converted the first sample. In January 2022, I successfully converted the second.
-The display tests in the execution environment also passed, so I was convinced that this method would work.
-In the end, I think the reason I've been able to continue developing BCH+ for eight years is because I was able to resolve this sense of discomfort.
-It was a way to resolve my own indigestion.
-And then, before I knew it, the AI ​​had caught up with me and surpassed me. Please laugh. :)
+The display tests in the execution environment also passed, so I was confident that this method would work.
+In the end, I think the reason I've been able to continue developing BCH+ for eight years is because I wanted to eliminate this sense of incongruity.
+And before I knew it, the AI ​​had caught up with me and surpassed me. Please laugh. :)
 
 ※I've been working as a baker since October 2017, and instead of sitting in front of my laptop for eight hours a day, I spend eight hours a day baking bread in front of the oven.
 I developed it in an environment where I could code for just one or two hours a day.
