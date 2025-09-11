@@ -62,17 +62,16 @@ If I had focused solely on the conversion, the AI ​​would have caught up wit
 I developed it in an environment where I could code for just one or two hours a day.
 
 ## 📅 Future Development Schedule
-If BCH+ proves useful to others, I’ll prioritize option 1. If it turns out to be unnecessary for the world, I’ll focus on option 2.
+If BCH+ is useful to you, I'll prioritize 1. If it's unnecessary, I'll prioritize 2.
+1. Functional upgrade
+2. Rewrite the source code to be more polished
 
-1.Functional upgrades
+※If I can develop at this level, I thought maybe I could quit being a baker and become a programmer, so I interviewed at several companies.
+The results were disastrous: "Why a query builder? Use Eloquant," "Write classes, not functions," "Don't manage your own source code. Use GitHub," "What? You've never used PHPUnit?"...
+I'll continue making and baking bread!!
 
-2.Refactoring into more elegant, polished source code
-
-※At one point, I thought: “If I can develop something like this, maybe I should quit baking and become a programmer.” So I went to a few job interviews. The results were… brutal. “Why are you using Query Builder? Use Eloquent.” “Don’t write functions—write classes.” “Don’t manage your source code manually. Use GitHub.” “What? You’ve never used PHPUnit?”
-
-So yeah… I’m still baking bread.
-
-Bonus: I think I’m a pretty solid baker, actually. In 2018, I won both gold and silver medals at this town’s baking show. Hahaha.
+Bonus: I think I'm a good baker. I won both a gold and silver medal in the sour dough category at the 2018 baking show in my town.
+Hahaha.
 
 ## 📚 Documentation
 For detailed usage instructions and test results, please refer to https://doc.bchplus.com/
