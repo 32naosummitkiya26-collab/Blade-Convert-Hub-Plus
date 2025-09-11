@@ -30,8 +30,7 @@ Enables team members to share both HTML files and conversion results seamlessly.
 ## 💡 Technical Innovations
 - Original, lightweight DOM parsing algorithm
 
-    While AI typically performs parsing on ultra high-spec servers, BCH+ can handle parsing on a modest setup
-    (Windows 8.1, AMD A4-5000 1.50 GHz, 6GB RAM).
+    AI runs the analysis on a high-spec server, but BCH+ can also run on a low-spec server (Win8.1, AMD A4-5000 1.50GHz, 6GB RAM).
 
 - Dynamic database sharding via .env configuration
 
