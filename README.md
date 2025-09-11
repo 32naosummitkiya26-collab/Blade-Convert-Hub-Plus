@@ -49,8 +49,6 @@ The system was being developed using Laravel. After changing the .html extension
 The root cause of this feeling of discomfort was, in other words, that the "alternative methods" were in the spotlight, while the methods advocated by the framework developers were in the shadows.
 Also, doing the manual work was a pain, so I looked for an automation tool, but there weren't any. So I started making it myself.
 
-I also found the manual work tedious and looked for automation tools—but none existed. So I decided to build one myself.
-
 In November 2021, I successfully converted the first sample. In January 2022, I successfully converted the second.
 Since the display test in the runtime environment also passed, I was confident that this approach would work.
 Ultimately, I think the reason I've been able to continue developing BCH+ for eight years is to resolve this sense of discomfort.
