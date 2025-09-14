@@ -35,6 +35,10 @@ Enables team members to share both HTML files and conversion results seamlessly.
 
     AI runs the analysis on a high-spec server, but BCH+ can also run on a low-spec laptop (Win8.1, AMD A4-5000 1.50GHz, 6GB RAM).
 
+- Flexible Template Structure Adjustment
+
+    While the conversion logic itself is fixed, BCH+ allows developers to freely specify the DOM hierarchy to be converted. This allows developers to flexibly adjust the output template structure to suit project policies and client coding rules.
+
 - Dynamic database sharding via .env configuration
 
     By simply modifying the .env file, the system can instantly adapt to changes in the number of sharded databases.
