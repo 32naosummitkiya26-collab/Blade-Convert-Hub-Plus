@@ -43,7 +43,7 @@ On a $10/month rental server (specs unknown), it's blazingly fast!! (Actually, i
 
     By simply modifying the .env file, the system can instantly adapt to changes in the number of sharded databases.
 
-※As of May 2024, Copilot was unable to perform conversion. On August 16, 2025, I asked again—and now it can parse the DOM and perform conversion. On September 4, 2025, I asked Gemini, and it can do it too. Apparently, this became possible thanks to a recent system update.
+※As of May 2024, Copilot was unable to perform conversion. On August 16, 2025, I asked again—and now it can parse the DOM and perform conversion. On September 4, 2025, I asked Gemini, and it can do it too. Apparently this has been made possible with a recent system update.
     
 ## 📘 How to Use
 BCH+ features an intuitive GUI, making it easy to operate without technical setup. No personal data is collected—just register a nickname and email address to get started. If you're curious, feel free to give it a try: 👉 https://bchplus.com
