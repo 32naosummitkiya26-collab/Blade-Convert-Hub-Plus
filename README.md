@@ -10,7 +10,7 @@ BCH+ is a template converter that analyzes the DOM structure across multiple HTM
   
     📦 Pre-registered theme files can be imported instantly—no manual upload required
   
-    📁 Original HTML files can be uploaded and stored for reference or reuse
+    📁 Original HTML files can be uploaded and stored for reference or reuse(currently not possible due to disk space limitations)
   
 
 Enables team members to share both HTML files and conversion results seamlessly.
@@ -22,13 +22,10 @@ Enables team members to share both HTML files and conversion results seamlessly.
 
 ✅ Batch conversion of multiple files via GUI interface
 
-✅ Designed for extensibility—potentially adaptable to:
+✅ It is designed for extensibility and can accommodate frameworks that use a template structure similar to Smarty
 
-    Ruby on Rails (Ruby): ERB (Embedded Ruby)
-
-    Flask (Python): Jinja2
-
-    Next.js (JavaScript/React): JSX / React Components
+    Twig, Jinja2, Yii2, ThinkPHP
+    I haven't looked into what other frameworks' template structures it supports yet...
 
 ## 💡 Technical Innovations
 - Original, lightweight DOM parsing algorithm
