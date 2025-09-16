@@ -78,3 +78,26 @@ Hahaha.
 
 ## 📚 Documentation
 For detailed usage instructions and test results, please refer to https://doc.bchplus.com/
+
+## 🔙 Looking back over the past eight years,
+
+I feel incredibly fortunate to have been given the opportunity to develop BCH+ for eight years.
+
+There are many reasons for giving up. It's not just boredom, but also more external reasons.
+For example, a pandemic could completely change my life and make it impossible to continue development, or health issues or family circumstances could make it impossible to continue development.
+I once gave up. I think it was around the third year. One winter morning, around 4 AM, I was feeling sleepy and making instant coffee.
+As I was trying to code at the kitchen table, my hand slipped and a small cup of coffee spilled onto my laptop.
+When I heard a "bang!" and the laptop fell, I thought, "This is it."
+I hadn't backed up my computer for about three months, and I was working on a fairly complicated part, so I couldn't start over from memory.
+I drained the coffee by standing it up on a bath towel and left it to dry in the shade for a week. I was extremely nervous about turning it on.
+I tell myself that if it works, I'll keep going, and if it doesn't, I'll give up.
+
+I just love coding. My wife likes to write blogs as a hobby, but I prefer writing code to writing.
+Otherwise, I couldn't have continued for eight years without a salary.
+During that time, I was making, baking and bagging bread every day. I sometimes wonder if BCH+ development was a way to relieve the stress of my monotonous and boring daily life.
+
+Migrating from my local development environment to the server took longer than I expected, and I spent a lot of time on "configuration" tasks like creating documentation.
+Before I knew it, I hadn't coded properly for six months.
+Whether BCH+ is popular or not is a different story, but maybe it's time to get back into coding.
+
+Anyway, today I'm going to the bakery again and make some money!!
