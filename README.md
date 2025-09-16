@@ -96,8 +96,8 @@ I just love coding. My wife likes to write blogs as a hobby, but I prefer writin
 Otherwise, I couldn't have continued for eight years without a salary.
 During that time, I was making, baking and bagging bread every day. I sometimes wonder if BCH+ development was a way to relieve the stress of my monotonous and boring daily life.
 
-Migrating from my local development environment to the server took longer than I expected, and I spent a lot of time on "configuration" tasks like creating documentation.
-Before I knew it, I hadn't coded properly for six months.
-Whether BCH+ is popular or not is a different story, but maybe it's time to get back into coding.
+Switching from the local development environment to the server took more time than I expected. I also spent a fair amount of time preparing things like writing documentation.
+I realized that I hadn't properly coded in six months.
+Whether or not BCH+ is popular with everyone, it's time to get back to coding.
 
-Anyway, today I'm going to the bakery again and make some money!!
+Anyway, I'm going to the bakery again today to earn some money!!
