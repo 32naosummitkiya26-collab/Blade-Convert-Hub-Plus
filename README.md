@@ -33,7 +33,7 @@ Enables team members to share both HTML files and conversion results seamlessly.
   AI: Analytical processing runs on the world's highest-spec servers.
 
   BCH+: Runs at a reasonable speed even on the world's lowest-spec development environment (HP Pavilion Win8.1, AMD A4-5000 1.50GHz, 6GB RAM).
-On a $10/month rental server (specs unknown), it's blazingly fast!! (Actually, it's $10, but I signed up for it during a half-price campaign. Yay :)
+On a $5/month rental server (specs unknown), it's blazingly fast!! (Actually, it's $10, but I signed up for it during a half-price campaign. Yay :)
 
 - Flexible Template Structure Adjustment
 
