@@ -87,7 +87,7 @@ There are many reasons for giving up. It's not just boredom, but also more exter
 For example, a pandemic could completely change my life and make it impossible to continue development, or health issues or family circumstances could make it impossible to continue development.
 I once gave up. I think it was around the third year. One winter morning, around 4 AM, I was feeling sleepy and making instant coffee.
 As I was trying to code at the kitchen table, my hand slipped and a small cup of coffee spilled onto my laptop.
-When I heard a "bang!" and the laptop fell, I thought, "This is it."
+When I heard a "bang!" and the laptop fell, I thought, "It's over."
 I hadn't backed up my computer for about three months, and I was working on a fairly complicated part, so I couldn't start over from memory.
 I drained the coffee by standing it up on a bath towel and left it to dry in the shade for a week. I was extremely nervous about turning it on.
 I tell myself that if it works, I'll keep going, and if it doesn't, I'll give up.
