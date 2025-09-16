@@ -22,7 +22,7 @@ Enables team members to share both HTML files and conversion results seamlessly.
 
 ✅ Batch conversion of multiple files via GUI interface
 
-✅ It is designed for extensibility and can accommodate frameworks that use a template structure similar to Smarty
+✅ It is extensible and will support frameworks that use a template structure similar to Smarty
 
     Twig, Jinja2, Yii2, ThinkPHP
     I haven't looked into what other frameworks' template structures it supports yet...
