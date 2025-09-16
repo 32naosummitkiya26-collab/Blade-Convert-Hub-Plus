@@ -85,12 +85,11 @@ I feel incredibly fortunate to have been given the opportunity to develop BCH+ f
 
 There are many reasons for giving up. It's not just boredom, but also more external reasons.
 For example, a pandemic could completely change my life and make it impossible to continue development, or health issues or family circumstances could make it impossible to continue development.
-I once gave up. I think it was around the third year. One winter morning, around 4 AM, I was feeling sleepy and making instant coffee.
-As I was trying to code at the kitchen table, my hand slipped and a small cup of coffee spilled onto my laptop.
-When I heard a "bang!" and the laptop fell, I thought, "It's over."
-I hadn't backed up my computer for about three months, and I was working on a fairly complicated part, so I couldn't start over from memory.
-I drained the coffee by standing it up on a bath towel and left it to dry in the shade for a week. I was extremely nervous about turning it on.
-I tell myself that if it works, I'll keep going, and if it doesn't, I'll give up.
+I gave up once. I think it was the third year. One winter morning, around 4am, I was sleepy and made some coffee (instant),
+and while trying to code at the kitchen table, my hand slipped and the small cup of coffee ended up being gulped down by my laptop. . . . I heard a "bang!" and when my laptop fell, I thought, "I'm done for."
+I hadn't made a backup in about three months, and I was working on something quite complicated, so I couldn't start over from memory.
+I propped the laptop up on a bath towel, removed the coffee, and left it to dry in the shade for a week. I was honestly nervous when I turned it on.
+I told myself that if it turned on, I'd keep going, but if not, I'd give up.
 
 I just love coding. My wife likes to write blogs as a hobby, but I prefer writing code to writing.
 Otherwise, I couldn't have continued for eight years without a salary.
