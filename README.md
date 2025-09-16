@@ -79,7 +79,7 @@ Hahaha.
 ## 📚 Documentation
 For detailed usage instructions and test results, please refer to https://doc.bchplus.com/
 
-## 🔙 Looking back over the past eight years,
+## 🔙 Looking back over the past eight years
 
 I feel incredibly fortunate to have been given the opportunity to develop BCH+ for eight years.
 
