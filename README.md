@@ -81,7 +81,7 @@ For detailed usage instructions and test results, please refer to https://doc.bc
 
 ## 🔙 Looking back over the past eight years
 
-I feel incredibly fortunate to have been given the opportunity to develop BCH+ for eight years.
+I feel incredibly fortunate to have been given the opportunity to develop BCH+ for eight years. I also realized how difficult it is to maintain my motivation and continue doing one thing for eight years.
 
 There are many reasons for giving up. It's not just boredom, but also more external reasons.
 For example, a pandemic could completely change my life and make it impossible to continue development, or health issues or family circumstances could make it impossible to continue development.
