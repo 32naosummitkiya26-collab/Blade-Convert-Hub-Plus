@@ -48,6 +48,9 @@ On a $5/month rental server (specs unknown), it's blazingly fast!! (Actually, it
 ## 📘 How to Use
 BCH+ features an intuitive GUI, making it easy to operate without technical setup. No personal data is collected—just register a nickname and email address to get started. If you're curious, feel free to give it a try: 👉 https://bchplus.com
 
+## 📚 Documentation
+For detailed usage instructions and test results, please refer to https://doc.bchplus.com/
+
 ## 📌 Why I Created This
 
 In September 2017, the Japanese takeaway restaurant that I ran with my wife went bankrupt. That's when I had the idea to improve the ordering system we were using and make it available for other people to use. In the process, the idea for Converter came about by chance.
@@ -75,9 +78,6 @@ I'll continue making and baking bread!! Summer is almost here... It's hard to st
 
 Bonus: I think I'm a good baker. I won both a gold and silver medal in the sour dough category at the 2018 baking show in my town.
 Hahaha.
-
-## 📚 Documentation
-For detailed usage instructions and test results, please refer to https://doc.bchplus.com/
 
 ## 🔙 Looking back over the past eight years
 
