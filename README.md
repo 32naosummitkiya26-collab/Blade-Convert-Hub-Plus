@@ -98,5 +98,3 @@ During that time, I was making, baking and bagging bread every day. I sometimes 
 Switching from the local development environment to the server took more time than I expected. I also spent a fair amount of time preparing things like writing documentation.
 I realized that I hadn't properly coded in six months.
 Whether or not BCH+ is popular with everyone, it's time to get back to coding.
-
-Anyway, I'm going to the bakery again today to earn some money!!
