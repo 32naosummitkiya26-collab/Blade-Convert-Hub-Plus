@@ -6,7 +6,7 @@ BCH+ is a Workflow-Oriented template converter that analyzes the DOM structure a
 
     🔍 Automatically detects and extracts common elements across files
   
-    🧩 Converts to Laravel Blade or Django templates with proper layout hierarchy
+    ⚙️ Converts to Laravel Blade or Django templates with proper layout hierarchy
   
     📦 Pre-registered theme files can be imported instantly—no manual upload required
   
