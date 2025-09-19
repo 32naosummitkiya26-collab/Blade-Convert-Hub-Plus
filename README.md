@@ -1,5 +1,5 @@
 # 🔄 Workflow-Oriented HTML to Blade/Django Converter
-BCH+ is a template converter that analyzes the DOM structure across multiple HTML files to identify shared components, then automatically separates them into Blade or Django template structures—Base layout, child views, and subviews.
+BCH+ is a Workflow-Oriented template converter that analyzes the DOM structure across multiple HTML files to identify shared components, then automatically separates them into Blade or Django template structures—Base layout, child views, and subviews.
 
 ![2](https://github.com/user-attachments/assets/a249c176-a209-4933-8996-e16cb16e423f) 　![3](https://github.com/user-attachments/assets/d83d35df-7c9e-4b84-bdec-e98198916ae3)
 
