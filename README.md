@@ -68,9 +68,16 @@ And before I knew it, the AI ​​had caught up with me and surpassed me. Pleas
 I developed it in an environment where I could code for just one or two hours a day.
 
 ## 📅 Future Development Schedule
-If BCH+ is useful to you, I'll prioritize 1. If it's unnecessary, I'll prioritize 2.
-1. Functional upgrade
-2. Rewrite the source code to be more polished
+1st Quarter: Just keep creating and releasing (as of now)
+
+2nd Quarter: Improve my own skills
+
+3rd Quarter: Expand functionality
+
+4th Quarter: Undecided
+
+
+If BCH+ is useful to you, I would consider switching the order of the 3rd and 2nd quarters.
 
 ※If I can develop at this level, I thought maybe I could quit being a baker and become a programmer, so I interviewed at several companies.
 The results were disastrous: "Why a query builder? Use Eloquant," "Write classes, not functions," "Don't manage your own source code. Use GitHub," "What? You've never used PHPUnit?"...
