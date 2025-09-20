@@ -68,7 +68,7 @@ And before I knew it, the AI ​​had caught up with me and surpassed me. Pleas
 I developed it in an environment where I could code for just one or two hours a day.
 
 ## 📅 Future Development Schedule
-1st Quarter: Just keep creating and releasing (as of now)
+1st Quarter: Develop and release (as of now)
 
 2nd Quarter: Improve my own skills
 
