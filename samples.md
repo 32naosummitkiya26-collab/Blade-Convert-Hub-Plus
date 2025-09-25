@@ -33,6 +33,20 @@ Basically, I respect the original source code and have made as few changes as po
 1. Replace with '_'
 '-' used in file names is replaced with '_'. If a '.' is used in a folder name, the converted file name will be without the '.'
 
-Bootstrap-dashboard-2.1.1-vsc
-    ↓
-bootstrap_dashboard_211_vsc_1.blade.php
+　　Bootstrap-dashboard-2.1.1-vsc  ->  bootstrap_dashboard_211_vsc_1.blade.php
+
+2. Indentation
+
+Adjusted the indentation of the conversion results.
+
+3. Combine into one line
+
+Combine external links that were split into two lines into one line.
+
+4. Delete comments and blank lines
+
+Comments, blank lines (line breaks), and conditional comments that depend on IE are deleted.
+  
+5. @yield('external_link')
+  
+If there are external links, BCH+ add them regardless of whether they contain differences or not. You probably won't use the original as is, so it's better to have them for expandability.
