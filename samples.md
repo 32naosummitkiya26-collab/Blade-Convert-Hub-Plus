@@ -25,3 +25,14 @@ I wanted to hear whether BCH+ is an app that everyone will support, so I decided
 
 
 I also downloaded about 15 other random themes (200 files total), and will test them one by one and add the ones that work well.
+
+# Edited original
+
+Basically, I respect the original source code and have made as few changes as possible. The only changes I have made are the following five points.
+
+1. Replace with '_'
+'-' used in file names is replaced with '_'. If a '.' is used in a folder name, the converted file name will be without the '.'
+
+Bootstrap-dashboard-2.1.1-vsc
+    ↓
+bootstrap_dashboard_211_vsc_1.blade.php
