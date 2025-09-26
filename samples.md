@@ -6,21 +6,13 @@ I wanted to hear whether BCH+ is an app that everyone will support, so I decided
 - Append (5 files)
 - MS-Copilot (4 files)
 - ChatGTP (5 files)
-
-・Startbootstrap-personal (4 files)
-
-・Constra-bootstrap-vsc (17 files)
-
-・Star-admin2 (9 files)
-
-・Light-bootstrap-dashboard (8 files)
-
-・Bootstrap-dashboard-2.1.1-vsc (6 files)
-
-・Material-dashboard (11 files)
-
-・CoolAdmin-master (24 files)
-
+- Startbootstrap-personal (4 files)
+- Constra-bootstrap-vsc (17 files)
+- Star-admin2 (9 files)
+- Light-bootstrap-dashboard (8 files)
+- Bootstrap-dashboard-2.1.1-vsc (6 files)
+- Material-dashboard (11 files)
+- CoolAdmin-master (24 files)
 
 I also downloaded about 15 other random themes (200 files total), and will test them one by one and add the ones that work well.
 
