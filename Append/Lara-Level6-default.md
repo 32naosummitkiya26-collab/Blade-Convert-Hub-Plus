@@ -489,7 +489,7 @@
 
 #### Child view(DOM:810)
 - index.blade.php
-```
+```blade
 @extends('layouts.append_index')
 
 @section('title', 'Your app name')
