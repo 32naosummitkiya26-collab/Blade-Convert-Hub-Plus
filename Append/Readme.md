@@ -39,3 +39,4 @@ In other words, the number of records in the child view increases as the base la
 
 This is probably a matter of preference.
 
+Levels 2 and above have the same results as level 6.
