@@ -16,7 +16,7 @@ I wanted to hear whether BCH+ is an app that everyone will support, so I decided
 
 I also downloaded about 15 other random themes (200 files total), and will test them one by one and add the ones that work well.
 
-# Edited original
+# ✏️ Edited original
 
 Basically, I respect the original source code and have made as few changes as possible. The only changes I have made are the following five points.
 
