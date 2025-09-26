@@ -1,7 +1,7 @@
 ![2](https://github.com/user-attachments/assets/cc665cae-7c13-4406-a102-5c124976cfce)
 #### Base layout(DOM:810)
 - append_1.blade.php
-```
+```blade
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -158,7 +158,7 @@
 
 #### Child view(DOM:810)
 - blog_details.blade.php
-```
+```blade
 @extends('layouts.append_1')
 
 @section('title', 'Your app name')
@@ -451,7 +451,7 @@
 
 #### Base layout(DOM:810)
 - append_index.blade.php
-```
+```blade
 <!DOCTYPE html>
 <html lang="en">
 <head>
