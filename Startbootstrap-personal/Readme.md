@@ -3,6 +3,10 @@
 
 ### 1. Run everything as default
 #### DOM Group: 466/468/488
+- 466 : contact.html
+- 468 : resume.html
+- 488 : index.html, projects.html
+
 There's no problem with separating the nav and footer into subviews.
 However, I have an idea that if I combine 466/468 into one group, I might be able to create a more efficient template.
 
