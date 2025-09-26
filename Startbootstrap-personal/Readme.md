@@ -14,4 +14,4 @@ Comparing the base layout of each group reveals that they are identical. This le
 #### DOM Group: 4
 This creates the simplest template. The nav and footer can be separated into subviews, just like the default.
 
-Not all themes saved in BCH+ can integrate DOM groups so neatly, but it's worth trying different patterns.
+***Not all themes saved in BCH+ can integrate DOM groups so neatly, but it's worth trying different patterns.***
