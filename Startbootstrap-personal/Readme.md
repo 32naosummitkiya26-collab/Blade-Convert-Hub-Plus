@@ -4,6 +4,10 @@
 ### 1. Run everything as default
 DOM Group: 466/468/488
 
-
 There's no problem with separating the nav and footer into subviews.
 However, I have an idea that if I combine 466/468 into one group, I might be able to create a more efficient template.
+
+### 2. Execute at DOM hierarchy level 2
+DOM Group: 46/48
+
+Comparing the base layout of each group reveals that they are identical. This leads me to the idea of ​​combining them into one.
