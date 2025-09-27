@@ -442,7 +442,7 @@
 {% block external_link %}
 {% endblock %}
 ```
-#### Child templat(DOM:8)
+#### Child template(DOM:8)
 - index.html
 ```django
 {% extends "append_1.html" %}
