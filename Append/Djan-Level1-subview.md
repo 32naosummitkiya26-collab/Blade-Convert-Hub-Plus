@@ -1,5 +1,5 @@
 ![2](https://github.com/user-attachments/assets/ce7919de-0005-408d-b941-f4b940b668fd)
-#### Base templater(DOM:8)
+#### Base template(DOM:8)
 - append_1.html
 ```django
 {% load static %}
