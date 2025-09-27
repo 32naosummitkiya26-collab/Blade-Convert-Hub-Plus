@@ -450,7 +450,7 @@
 {% block external_link %}
 {% endblock %}
 ```
-#### Base templater(DOM:834)
+#### Base template(DOM:834)
 - 
 append_index.html
 ```django
