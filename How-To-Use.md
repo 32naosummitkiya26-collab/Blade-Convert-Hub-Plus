@@ -88,6 +88,7 @@ There are four options available:
 - Sidebar: Sub/Child
 - Footer: Base/Sub<br><br>
 ![2](https://github.com/user-attachments/assets/dcd8d6eb-bd53-49f6-8e01-d45bf4e0ec4c)<br>
+
 Where to output each part. The shape of the finished template will change depending on this.<br>
 Initially, I had it set in stone and only output the sidebar to the subview, but I thought that there might be cases where the style is dictated by the coding rules of a team or client, so I changed it to make it selectable.<br>
 Please try out various things.<br><br>
