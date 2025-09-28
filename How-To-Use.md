@@ -78,7 +78,7 @@ Reading the Laravel documentation, it seems like you just need to find the commo
 The default is On. This function determines where there are likely differences and discards the structure beyond them. This also saves time.
 If you turn it off, the extracted structure will be used as is. In some cases, you may need to turn it off to successfully convert. I've recorded the results of my own tests for each sample, so please refer to them (they're still in Japanese...).
 #### Tags to use for extraction
-his is a similar feature. Extracting structures using all tags takes time. By omitting minor tags, we hope to speed up processing even a little.<br><br>
+This is a similar feature. Extracting structures using all tags takes time. By omitting minor tags, we hope to speed up processing even a little.<br><br>
 ***As for the tag functions used for auto-adjustment and extraction, I think they will work without any problems as long as they can be processed on a high-speed server. I think this feature could be removed in the future.***
 
 ### Convert to template
