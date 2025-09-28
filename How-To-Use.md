@@ -49,3 +49,16 @@ For information on controlling access rights, see User Management.
 
 
 # 👥 User Management
+Here you can register, change, or delete access rights for projects for which you are the administrator.
+![4](https://github.com/user-attachments/assets/d451896e-1645-468b-bc79-0da0f1450dce)
+### Select a project
+Select a project from the dropdown menu and enter the recipient's username and email address. Of course, only BCH+ subscribers are eligible.
+The following four permissions can be granted:
+
+- Upload
+- Convert
+- Copy
+- Preview (Nothing works at the moment)
+![5](https://github.com/user-attachments/assets/55efbf45-8623-4d74-97bb-1bf726d693d2)
+
+Selection is possible on a folder-by-folder basis, and detailed management of individual files is not possible.
