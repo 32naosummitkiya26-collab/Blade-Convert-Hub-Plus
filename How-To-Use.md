@@ -46,8 +46,24 @@ Files that have been converted into project files cannot be changed back to pers
 For information on controlling access rights, see User Management.
 
 # 🔄 Convert
+This is where it's most used.
+### Select a folder and proceed with the analysis
+Select the folder you want to convert from the dropdown and click the Get File Info button.
+Then select a framework and proceed with Doctype Analysis, HTML Analysis, and Head Analysis.<br>
+This dropdown lists your personal folders, projects for which you are an administrator, and projects for which you have been granted conversion permissions.
+
+Up to this point, there shouldn't be any problems. The currently included templates have been tested, so there's no need to worry.<br>
+You can check the results of each analysis in the message window on the right.
+However, if the commonality rate in the Head analysis is extremely low, you should be careful. This may be because unrelated files or files with completely different structures have been mixed in. You can convert them as is, but this will increase the amount of source code output to the child view. If you don't need these files, it's best to remove them.
 
 
+Once the Head analysis is complete, you can check the conversion results so far. It's still incomplete, though.
+For example, in Laravel, you can see the conversion results by clicking the xxx.blade.php link, and you can check the original source code by clicking Orig.
+
+
+Laravel assets are placed directly under the public directory and loaded using the asset() function, while Django assets are placed directly under the static directory and loaded using the {% static %} tag.<br>
+***Users who have been granted copy permissions in user management will see a link to the conversion results, but users who do not have the permissions will not be able to see them.
+This means they cannot view the results or copy and paste them.***
 # 👥 User Management
 Here you can register, change, or delete access rights for projects for which you are the administrator.
 ![4](https://github.com/user-attachments/assets/d451896e-1645-468b-bc79-0da0f1450dce)
