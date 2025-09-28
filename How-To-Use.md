@@ -65,7 +65,21 @@ Laravel assets are placed directly under the public directory and loaded using t
 ***Users who have been granted copy permissions in user management will see a link to the conversion results, but users who do not have the permissions will not be able to see them.
 This means they cannot view the results or copy and paste them.***
 ### body structure extraction
-![7](https://github.com/user-attachments/assets/c7cb568c-4713-4bfe-ac7e-2969687c39c2)
+BCH+ extracts the DOM structure that makes up an HTML file. There are three options you can change:
+- Hierarchy level
+- Auto-adjust
+- Tags to use for extraction<br>
+![7](https://github.com/user-attachments/assets/c7cb568c-4713-4bfe-ac7e-2969687c39c2)<br>
+
+#### Hierarchy Level
+I've looked at various source code, but it seems like there's no need to extract all the structure down to the deepest level. It would take time.
+Reading the Laravel documentation, it seems like you just need to find the common parts and differences and separate them.
+#### Auto Adjustment
+The default is On. This function determines where there are likely differences and discards the structure beyond them. This also saves time.
+If you turn it off, the extracted structure will be used as is. In some cases, you may need to turn it off to successfully convert. I've recorded the results of my own tests for each sample, so please refer to them (they're still in Japanese...).
+#### Tags to use for extraction
+his is a similar feature. Extracting structures using all tags takes time. By omitting minor tags, we hope to speed up processing even a little.<br><br>
+***As for the tag functions used for auto-adjustment and extraction, I think they will work without any problems as long as they can be processed on a high-speed server. I think this feature could be removed in the future.***
 
 ### Convert to template
 There are four options available:
