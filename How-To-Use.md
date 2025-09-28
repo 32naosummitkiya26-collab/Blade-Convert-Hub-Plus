@@ -4,16 +4,16 @@ You cannot upload files yourself (this is restricted due to insufficient disk sp
 
 
 Currently you can import:
-・Append
-・MS-Copilot
-・ChatGTP
-・Startbootstrap-personal
-・Constra-bootstrap-vsc
-・Star-admin2
-・Light-bootstrap-dashboard
-・Bootstrap-dashboard-2.1.1-vsc
-・Material-dashboard
-・CoolAdmin-master
+- Append
+- MS-Copilot
+- ChatGTP
+- Startbootstrap-personal
+- Constra-bootstrap-vsc
+- Star-admin2
+- Light-bootstrap-dashboard
+- Bootstrap-dashboard-2.1.1-vsc
+- Material-dashboard
+- CoolAdmin-master
 
 These 10 themes passed the test.
 
