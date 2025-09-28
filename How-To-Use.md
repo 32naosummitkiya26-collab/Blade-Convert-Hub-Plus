@@ -62,3 +62,12 @@ The following four permissions can be granted:
 ![5](https://github.com/user-attachments/assets/55efbf45-8623-4d74-97bb-1bf726d693d2)
 
 Selection is possible on a folder-by-folder basis, and detailed management of individual files is not possible.
+### Upload permissions
+Users with this permission can perform a range of operations in file management. This means they can upload new files to the project and delete files from the project.
+
+They cannot add new files to templates imported from BCH+.
+Since those are provided by the author, I consider that to be complete.
+### Convert Permissions
+Users with this permission can perform all operations in Convert. For more information, see Convert.
+###Copy permission
+Users with this permission can cut and paste the source code of converted templates. See Convert for details.
